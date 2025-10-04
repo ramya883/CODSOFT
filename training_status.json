@@ -1,0 +1,10 @@
+{
+  "model_files": [
+    "image_captioning_model.h5",
+    "quick_test_model.h5"
+  ],
+  "tokenizer_files": [
+    "quick_test_tokenizer.pkl"
+  ],
+  "timestamp": "2025-09-27T17:06:33.026190"
+}
